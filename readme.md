@@ -6,9 +6,7 @@ Der Zeitrahmen bedeckt ca. 6 Wochen: 25.08 - 29.09.2023.
 
 ## Leit-Satz
 
-Ich möchte meine C# Kenntnisse erweitern. Die Grundlagen würde ich nochmal durchgehen und im späteren Teil noch erweitete Funktionen kennenlernen. Mein Ziel ist es eine Vocabulary Lern App zu entwickeln. Inspiration: *Busu & Quizlet*.
-
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+Ich möchte meine C# Kenntnisse erweitern. Die Grundlagen würde ich nochmal durchgehen und im späteren Teil noch erweitete Funktionen kennenlernen. Mein Ziel ist es eine Vocabulary Lern App zu entwickeln. Inspiration: *Busu & Quizlet*. Ich denke es passt zu Modul 319, da wir gerade erst am anfang vom Programmieren mit C# sind.
 
 ## Arbeitspakete für dd.mm.yyyy
 
