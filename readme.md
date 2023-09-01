@@ -16,8 +16,18 @@ Ich möchte meine C# Kenntnisse erweitern. Die Grundlagen würde ich nochmal dur
 | #2      | Ich werde eine kleine Übung mit Forms gestalten            | 01  |    -     |
 | #3      | Ich werde Wörter einfügen können            | 01  |   -      |
 
-### Übriges: 
-Ich habe mir am anfang der Session etwas anderes Überlegt. Das M431 würde ich, während des aufbauen der Fundamente rund um C#, nebenbei bearbeiten.
+- [ ] 
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Programm in VS gestartet | ``  | ``      |
+
+- [x] #1
+- [ ] #2
+- [ ] #3
+
+### Zusammenfassung
+Ich habe mir am anfang der Session etwas anderes Überlegt. In der ersten Stunde hatte ich Unreal Engine offen, aber ich konnte da nicht weiter arbeiten. Das M431 würde ich, während des aufbauen der Fundamente rund um C#, nebenbei bearbeiten. Ich habe auf W3School mein Wissen über C# aufgefrischt. Leider konnte ich heute nicht viel mehr machen. (57w)
 
 
 ## Arbeitspakete: 08.09.2023
@@ -26,16 +36,4 @@ Ich habe mir am anfang der Session etwas anderes Überlegt. Das M431 würde ich,
 | ------- | ----------- | --- | ------- |
 | #1 | C# besser verstehen | 01 |  |
 | #2 | M431 weiter verarbeiten | 01 |  |
-
-
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | ``  | ``      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+| #3 | Vorlage für die Lernapp | 02 |  |
