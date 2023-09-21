@@ -30,10 +30,31 @@ Ich möchte meine C# Kenntnisse erweitern. Die Grundlagen würde ich nochmal dur
 Ich habe mir am anfang der Session etwas anderes Überlegt. In der ersten Stunde hatte ich Unreal Engine offen, aber ich konnte da nicht weiter arbeiten. Das M431 würde ich, während des aufbauen der Fundamente rund um C#, nebenbei bearbeiten. Ich habe auf W3School mein Wissen über C# aufgefrischt. Leider konnte ich heute nicht viel mehr machen. (57w)
 
 
-## Arbeitspakete: 08.09.2023
+## Arbeitspakete: 15.09.2023
 
 | Ap. Nr. | Description | Day | t.s. on |
 | ------- | ----------- | --- | ------- |
-| #1 | C# besser verstehen | 01 |  |
-| #2 | M431 weiter verarbeiten | 01 |  |
-| #3 | Vorlage für die Lernapp | 02 |  |
+| #1 | C# besser verstehen | 01 | >1h |
+| #2 | M431 weiter verarbeiten | 01 | <2h |
+| #3 | Vorlage für die Lernapp | 02 | - |
+
+- [x] #1
+- [x] #2
+- [ ] #3
+
+### Zusammenfassung
+Ich habe mir die erste Stunde, Zeit für das bessere Verstehen genommen. In dieser Stunde habe ich mit W3School.com mehr über C# gelernt. Ab der nächsten Stunde habe ich dann, an Modul 431 weiter gearbeitet. ich habe 2 Aufträge Abgeschlossen. Bei der letzten Stunde habe ich über Youtube, ein Tutorial versucht nach zu bauen. (53w)
+
+
+## Arbeitspakete: 22.09.2023
+
+| Ap. Nr.| Description | Day | t.s. on |
+| ------ | ----------- | --- | ------- |
+| #1 | M319 weiter arbeiten |  |  |
+| #2 | Portfolio von M319  |  |  |
+| #3 | evtl. Lernapp  |  |  |
+
+- [ ] #1
+- [ ] #2
+- [ ] #3
+
