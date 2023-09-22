@@ -50,8 +50,8 @@ Ich habe mir die erste Stunde, Zeit für das bessere Verstehen genommen. In dies
 
 | Ap. Nr.| Description | Day | t.s. on |
 | ------ | ----------- | --- | ------- |
-| #1 | M319 weiter arbeiten |  |  |
-| #2 | Portfolio von M319  |  |  |
+| #1 | M319 weiter arbeiten | 01 | 45min |
+| #2 | Portfolio von M319  | 01 | 1h |
 | #3 | evtl. Lernapp  |  |  |
 
 - [ ] #1
