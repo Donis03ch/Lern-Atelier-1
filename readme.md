@@ -55,7 +55,7 @@ Ich habe mir die erste Stunde, Zeit für das bessere Verstehen genommen. In dies
 | #3 | evtl. Lernapp  |  |  |
 
 - [ ] #1
-- [ ] #2
+- [x] #2
 - [ ] #3
 
 ## Reflexion
